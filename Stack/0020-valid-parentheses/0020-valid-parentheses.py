@@ -20,7 +20,7 @@ class Solution:
 
     # Oct 5 2024 solution:
     
-    class Solution:
+class Solution:
     def isValid(self, s: str) -> bool:
 
         parentheses = {
